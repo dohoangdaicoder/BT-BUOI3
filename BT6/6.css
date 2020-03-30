@@ -1,0 +1,59 @@
+/* reset trang html */
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+article{
+    width: 931px;
+    height: 225px;
+    margin: 14px;
+    font-family: Arial;
+    padding-top: 12px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid gray;
+}
+img{
+    width: 340px;
+    height: 223px;
+    float: left;
+    margin-right: 15px;
+}
+a.tieude{
+    width: 564px;
+    height: 100px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 24px;
+    display: block;
+    overflow: hidden;
+}
+a.tieude:hover{
+    color: red;
+}
+a.tg{
+    color: gray;
+}
+.lienket{
+    width: 564px;
+    float: right;
+    padding-right: 10px;
+}
+a.lienkettg{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+}
+a.lienkettg:hover{
+    color: blue;
+}
+.khungvb1{
+    padding-top: 24px;
+    width: 575px;
+    height: 46px;
+    float: right;
+    font-size: 16px;
+    color: gray;
+}

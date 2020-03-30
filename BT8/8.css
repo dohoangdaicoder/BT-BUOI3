@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+article{
+    width: 440px;
+    height: 130px;
+    display: block;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+img{
+    width: 190px;
+    height: 130px;
+    float: left;
+    margin-right: 5px;
+    border-radius: 1px;
+}
+.khungphai{
+    width: 222px;
+    height: 86px;
+    float: right;
+    margin-top: 5px;
+    font-size: 18px;
+}
+a{
+    text-decoration: none;
+    color: #000000;
+    font-family: arial;
+    font-weight: bold;
+}
+a:hover{
+    color: #008000;
+}
+.bantin{
+    width: 430px;
+}
+.bantin2{
+    width: 430px;
+    border-top: 1px solid #cecece;
+    padding-top: 20px;
+}
